@@ -1,3 +1,4 @@
 Appium-Python-Client>=0.28
 pytest
 SauceClient
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
